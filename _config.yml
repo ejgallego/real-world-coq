@@ -1,5 +1,10 @@
 title: "Sabanci Coq Course"
 
+url: https://ejgallego.github.io
+baseurl: /real-world-coq
+
+# permalink: date
+
 theme: minima
 markdown: kramdown
 
