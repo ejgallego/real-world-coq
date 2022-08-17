@@ -15,7 +15,6 @@ Duration of the course: 5 days
 
 Proofs constitute the backbone of both Mathematics and Computer Science (CS). Doing a mathematical proof requires domain knowledge, solid reasoning skills and applying reasoning techniques carefully step-by-step. It is a tedious and error-prone task. For this reason, computer scientists aim to develop programs for mechanizing and/or automating the proof process. Coq is an interactive proof assistant developed for this purpose. Using Coq, one can define mathematical objects or computer programs, express theorems or assertions on these entities, and mechanically check correctness of them by either interacting with Coq or automatically by using so called proof tactics depending on the availability of an applicable one.
 
-[//]: # It might be good to put links or references for examples.
 [//]: # We might put some Coq code here as a figure.
 Coq is an industrial-scale tool successfully used for both research and commercial purposes. In 2005, famous four color theorem was proven in Coq yielding a proof library as a by product with general purpose features that could be used in many settings. AbsInt company develops and maintains an optimized, commercially used C compiler called CompCert. CompCert is specified, programmed and verified in Coq, and its performance is comparable with canonical GCC compiler. 
 
@@ -27,21 +26,28 @@ The first edition of the course will be held at Sabanci University, Istanbul as 
 
 ## Important Dates
 
-Application Deadline:
-Noti:
-Workshop: 
+Application Deadline: 29 August
+Notifications: 30-31 August
+Workshop: 5-9 September
 
 ## Registration
 
-Name Surname:
-Institution:
-Email Address:
-Student: Yes: No:
-Participation: Physical: Online:
-Need Accommodation: Yes (dorm): Yes(guest house): No:
+In order to apply for the workshop, please email to [Yagiz Kilicarslan](ykilicarslan@sabanciuniv.edu) with the following information:
+- Name, Surname
+- Institution
+- Email Address
+- Are you a student?
+- Do you want to attend physically or online?
+- Do you want to stay at Sabanci University dorms? If so, do you want to stay alone or share the room with another person? (see the difference in rates under Accommodation section.)
 
 ## Transportation
+
+Sabanci University is located at Tuzla. It is adjacent to Istanbul Anadolu Highway (TEM, E-80) and 20 minutes drive away from Sabiha Gokcen International Airport.
+
 ## Accommodation
+
+There are housing options inside Sabanci University Campus. Unfortunately, the guesthouse will be closed for maintenance during the workshop dates. Only in campus accommodation option for workshop participants is student dormitories. 2-person rooms are reserved for participants. Rates for staying single in the room is 800 try/night and sharing the room with another person is 400 try/night.
+
 ## Online Participation
 
 If you are registered for online participation, you can join us using the following Zoom link:
@@ -50,9 +56,8 @@ Recordings will be temporarily available here:
 
 ## Contact
 
-For your questions related to the organization, please email to [Suha Mutluergil](suha.mutluergil@sabanciuniv.edu) or [student](student@sabanciuniv.edu).
+For your questions related to the organization, please email to [Suha Mutluergil](suha.mutluergil@sabanciuniv.edu) or [Yagiz Kilicarslan](ykilicarslan@sabanciuniv.edu).
 
-[//]: # We need a form here for questions.
 
 ## Program/Schedule:
 
