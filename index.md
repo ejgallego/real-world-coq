@@ -56,7 +56,7 @@ Recordings will be temporarily available here:
 
 ## Contact
 
-For your questions related to the organization, please email to [Suha Mutluergil](suha.mutluergil@sabanciuniv.edu) or [Yagiz Kilicarslan](ykilicarslan@sabanciuniv.edu).
+For your questions related to the organization, please email to [Suha Mutluergil](mailto:suha.mutluergil@sabanciuniv.edu) or [Yagiz Kilicarslan](mailto:ykilicarslan@sabanciuniv.edu).
 
 
 ## Program/Schedule:
