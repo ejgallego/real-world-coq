@@ -32,7 +32,7 @@ Workshop: 5-9 September
 
 ## Registration
 
-In order to apply for the workshop, please email to [Yagiz Kilicarslan](ykilicarslan@sabanciuniv.edu) with the following information:
+In order to apply for the workshop, please email to [Yagiz Kilicarslan](mailto:ykilicarslan@sabanciuniv.edu) with the following information:
 - Name, Surname
 - Institution
 - Email Address
