@@ -6,29 +6,29 @@ layout: home
 Sept 5-9, 2022 | Sabanci University, Istanbul
 
 Instructor: Emilio J. Gallego Arias (Inria)
-Coordinator: Süha Mutluergil
+Coordinator: Süha Mutluergil (Sabanci University)
 Teaching Assistant: Ali Caglayan
 
 Duration of the course: 5 days
 
-## Intro
+## Introduction
 
-Proofs constitute the backbone of both Mathematics and Computer Science (CS). Doing a mathematical proof requires domain knowledge, solid reasoning skills and applying reasoning techniques carefully step-by-step. It is a tedious and error-prone task. For this reason, computer scientists aim to develop programs/tools for mechanizing and/or automating the proof process. Coq is an interactive proof assistant developed for this purpose. Using Coq, one can define mathematical objects or computer programs, express theorems or assertions on these entities, and mechanically check correctness of them by either interacting with Coq or automatically by using so called proof tactics depending on the availability of an applicable one.
+Proofs constitute the backbone of both Mathematics and Computer Science (CS). Doing a mathematical proof requires domain knowledge, solid reasoning skills and applying reasoning techniques carefully step-by-step. It is a tedious and error-prone task. For this reason, computer scientists aim to develop programs for mechanizing and/or automating the proof process. Coq is an interactive proof assistant developed for this purpose. Using Coq, one can define mathematical objects or computer programs, express theorems or assertions on these entities, and mechanically check correctness of them by either interacting with Coq or automatically by using so called proof tactics depending on the availability of an applicable one.
 
 [//]: # It might be good to put links or references for examples.
 [//]: # We might put some Coq code here as a figure.
-Coq is an industrial-scale tool successfully used for both research and commercial purposes. In 2005, famous four color theorem was proven in Coq yielding a proof library as a by product with general purpose features that could be used in many settings. A company named AbsInt develops and maintains an optimized, commercially used C compiler called CompCert. CompCert is specified, programmed and verified in Coq, and its performance is comparable with canonical GCC. 
+Coq is an industrial-scale tool successfully used for both research and commercial purposes. In 2005, famous four color theorem was proven in Coq yielding a proof library as a by product with general purpose features that could be used in many settings. AbsInt company develops and maintains an optimized, commercially used C compiler called CompCert. CompCert is specified, programmed and verified in Coq, and its performance is comparable with canonical GCC compiler. 
 
-Coq is a free open-source software developed and maintained by a large and active user community(https://coq.inria.fr/community.html). New extensions and Coq based tools are frequently introduced.  It has a [sub-reddit](https://www.reddit.com/r/Coq/) and active support can be easily found on [Stack Overflow](https://stackoverflow.com/questions/tagged/coq) and [Stack Exchange](https://cstheory.stackexchange.com/questions/tagged/coq). Main supporter of COQ is INRIA - French public computer science institute. Its development and maintenance is managed by the [Coq Team](https://coq.inria.fr/coq-team.html). Dr. Emilio Jesus Gallego Arias, the instructor for this workshop, is a member of the core team.
+Coq is a free open-source software developed and maintained by a large and active [user community](https://coq.inria.fr/community.html). New extensions and Coq based tools are frequently introduced.  It has a [sub-reddit](https://www.reddit.com/r/Coq/) and active support can be easily found on [Stack Overflow](https://stackoverflow.com/questions/tagged/coq) and [Stack Exchange](https://cstheory.stackexchange.com/questions/tagged/coq). Main supporter of COQ is INRIA - French public computer science institute. Its development and maintenance is managed by the [Coq Team](https://coq.inria.fr/coq-team.html). Dr. Emilio Jesus Gallego Arias, the instructor for this workshop, is a member of the core team.
 
-This workshop aims to introduce Coq proof assistant through basic concepts and exercises from different fields. It will an interactive tutorial like Coq itself. Participants will have time to go through exercises during the tutorial, interact with the instructor and ask their questions. 
+This course aims to introduce Coq proof assistant through basic concepts and various exercises. The course will be conducted by Dr. Emilio Jesus Gallego Arias (primary instructor), a member of the [Coq Core Team](https://coq.inria.fr/coq-team.html), and Ali Caglayan (teaching assistant), also a member of the [Coq team](https://coq.inria.fr/coq-team.html). The course will consist of lectures including interactive and hands-on exercises. 
 
-The workshop will be held at Sabanci University, Istanbul. 
+The first edition of the course will be held at Sabanci University, Istanbul as a workshop between 5-9 September. Lectures will be hybrid. The attendance is limited to 20 physical and 10 online participants. Application information and further details on the workshop is provided below. 
 
 ## Important Dates
 
 Application Deadline:
-Announcement of Participants:
+Noti:
 Workshop: 
 
 ## Registration
