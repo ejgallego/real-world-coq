@@ -31,6 +31,8 @@ Workshop: 5-9 September
 
 ## Registration
 
+In order to apply for the workshop, please email to [Yagiz Kilicarslan](mailto:ykilicarslan@sabanciuniv.edu) with the following information:
+
 <!-- modify this form HTML and place wherever you want your form -->
 <form
   action="https://formspree.io/f/xpznwzap"
@@ -68,14 +70,6 @@ Workshop: 5-9 September
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
-
-In order to apply for the workshop, please email to [Yagiz Kilicarslan](mailto:ykilicarslan@sabanciuniv.edu) with the following information:
-- Name, Surname
-- Institution
-- Email Address
-- Are you a student?
-- Do you want to attend physically or online?
-- Do you want to stay at Sabanci University dorms? If so, do you want to stay alone or share the room with another person? (see the difference in rates under Accommodation section.)
 
 ## Transportation
 
