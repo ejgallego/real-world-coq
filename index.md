@@ -42,11 +42,16 @@ In order to apply for the workshop, please email to [Yagiz Kilicarslan](mailto:y
 
 ## Transportation
 
-Sabanci University is located at Tuzla. It is adjacent to Istanbul Anadolu Highway (TEM, E-80) and 20 minutes drive away from Sabiha Gokcen International Airport.
+Sabanci University is located at Tuzla. It is adjacent to Istanbul Anadolu Highway (TEM, E-80) and 20 minutes drive away from Sabiha Gokcen International Airport. 
+
+Transportation serviceses are mainly provided by shuttles of Gursel Turizm. Shuttle schedule can be seen at https://www.sabanciuniv.edu/en/shuttle-hours 
+Otherwise, IETT bus: KM18 can be taken, which has a stop directly inside of Sabanci University.
+Another alternative is taking a taxi from from Tavsantepe metro station, which can be more costly but more comfortable as well.
+Note that Gursel Shuttles also has departures from Pendik metro station, which can be useful for those who want to use metro-shuttle combination.
 
 ## Accommodation
 
-There are housing options inside Sabanci University Campus. Unfortunately, the guesthouse will be closed for maintenance during the workshop dates. Only in campus accommodation option for workshop participants is student dormitories. 2-person rooms are reserved for participants. Rates for staying single in the room is 800 try/night and sharing the room with another person is 400 try/night.
+There are no housing options inside Sabanci University Campus. Unfortunately, the guesthouse will be closed for maintenance during the workshop dates. Only in campus accommodation option for workshop participants is student dormitories. 2-person rooms are reserved for participants. Rates for staying single in the room is 800 try/night and sharing the room with another person is 400 try/night.
 
 ## Online Participation
 
