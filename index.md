@@ -31,6 +31,23 @@ Workshop: 5-9 September
 
 ## Registration
 
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/xpznwzap"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+
 In order to apply for the workshop, please email to [Yagiz Kilicarslan](mailto:ykilicarslan@sabanciuniv.edu) with the following information:
 - Name, Surname
 - Institution
