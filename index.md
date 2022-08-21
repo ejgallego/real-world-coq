@@ -39,31 +39,31 @@ Workshop: 5-9 September
   <label>
     Name, Surname: <input type="text" name="name">
   </label>
-  
+  <br>
   <label>
     Email: <input type="email" name="email">
   </label>
-  
+  <br>
   <label>
     Institution: <input type="text" name="institution">
   </label>
-  
+  <br>
   <label>
     Are you a student?: <input type="checkbox" name="student">
   </label>
-
+  <br>
   <label>
     Do you want to attend physically or online? (check if online): <input type="checkbox" name="student">
   </label>
-  
+  <br>
   <label>
     Do you want to stay at Sabanci University dorms? <input type="checkbox" name="accomodation">
   </label>
-  
+  <br>
   <label>
     If Yes, do you want to stay alone or share the room with another person? (see the difference in rates under Accommodation section.) <input type="checkbox" name="accomodation_share">
   </label>
-  
+    <br>
   
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
