@@ -3,7 +3,7 @@ layout: home
 ---
 ## Title: "Real World Coq -- An introduction to mechanically verified mathematical proofs"
 
-Sept 5-9, 2022 | Sabanci University, Istanbul
+Sept 5-9, 2022 | Sabanci University (SU), Istanbul
 
 Instructor: Emilio J. Gallego Arias (Inria)
 Coordinator: Süha Mutluergil (Sabanci University)
@@ -19,61 +19,25 @@ Proofs constitute the backbone of both Mathematics and Computer Science (CS). Do
 
 Coq is a free open-source software developed and maintained by a large and active [user community](https://coq.inria.fr/community.html). New extensions and Coq based tools are frequently introduced.  It has a [sub-reddit](https://www.reddit.com/r/Coq/) and active support can be easily found on [Stack Overflow](https://stackoverflow.com/questions/tagged/coq) and [Stack Exchange](https://cstheory.stackexchange.com/questions/tagged/coq). Main supporter of COQ is INRIA - French public computer science institute. Its development and maintenance is managed by the [Coq Team](https://coq.inria.fr/coq-team.html). Dr. Emilio Jesus Gallego Arias, the instructor for this workshop, is a member of the core team.
 
-This course aims to introduce Coq proof assistant through basic concepts and various exercises. The course will be conducted by Dr. Emilio Jesus Gallego Arias (primary instructor), a member of the [Coq Core Team](https://coq.inria.fr/coq-team.html), and Ali Caglayan (teaching assistant), also a member of the [Coq team](https://coq.inria.fr/coq-team.html). The course will consist of lectures including interactive and hands-on exercises. 
+This course aims to introduce Coq proof assistant through basic concepts and various exercises. The course will be conducted by Dr. Emilio Jesus Gallego Arias (primary instructor), a member of the [Coq Core Team](https://coq.inria.fr/coq-team.html), and Ali Caglayan (teaching assistant), also a member of the [Coq team](https://coq.inria.fr/coq-team.html). The course will consist of lectures including interactive and hands-on exercises. The lectures will be conducted in English. Occassional help with Turkish-English translation will be provided by the TA and the coordinator.
 
 The first edition of the course will be held at Sabanci University, Istanbul as a workshop between 5-9 September. Lectures will be hybrid. The attendance is limited to 20 physical and 10 online participants. Application information and further details on the workshop is provided below. 
 
 ## Important Dates
 
-Application Deadline: 29 August
-Notifications: 30-31 August
+Application Deadline: 31 August
+Notifications: 1 September
 Workshop: 5-9 September
 
 ## Registration
 
-In order to apply for the workshop, please email to [Yagiz Kilicarslan](mailto:ykilicarslan@sabanciuniv.edu) with the following information:
+Only registered participants are allowed to attend the workshop. The capacity is limited to 20 pyhsical, 10 online people. For registraion (both online and physical), please fill the following [form](https://forms.gle/amVNTKTNvemS73Ki6). Participants will be picked by first come first served principle.
 
-<!-- modify this form HTML and place wherever you want your form -->
-<form
-  action="https://formspree.io/f/xpznwzap"
-  method="POST"
->
-  <label>
-    Name, Surname: <input type="text" name="name">
-  </label>
-  <br>
-  <label>
-    Email: <input type="email" name="email">
-  </label>
-  <br>
-  <label>
-    Institution: <input type="text" name="institution">
-  </label>
-  <br>
-  <label>
-    Are you a student?: <input type="checkbox" name="student">
-  </label>
-  <br>
-  <label>
-    Do you want to attend physically or online? (check if online): <input type="checkbox" name="student">
-  </label>
-  <br>
-  <label>
-    Do you want to stay at Sabanci University dorms? <input type="checkbox" name="accomodation">
-  </label>
-  <br>
-  <label>
-    If Yes, do you want to stay alone or share the room with another person? (see the difference in rates under Accommodation section.) <input type="checkbox" name="accomodation_share">
-  </label>
-    <br>
-  
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
+Registration is free for both online and physical attendance. Unfortunately, no funding is available for transportation, accoommodation and food, not even for the students.
 
 ## Transportation
 
-Sabanci University is located at Tuzla. It is adjacent to Istanbul Anadolu Highway (TEM, E-80) and 20 minutes drive away from Sabiha Gokcen International Airport. 
+The workshop will take place at SU Tuzla Campus. It is adjacent to Istanbul Anadolu Highway (TEM, E-80) and 20 minutes drive away from Sabiha Gokcen International Airport. 
 
 Transportation serviceses are mainly provided by shuttles of Gursel Turizm. Shuttle schedule can be seen at https://www.sabanciuniv.edu/en/shuttle-hours 
 
@@ -87,11 +51,15 @@ Note that Gursel Shuttles also have departures from Pendik metro station, which 
 
 There are no housing options inside Sabanci University Campus. Unfortunately, the guesthouse will be closed for maintenance during the workshop dates. Only in campus accommodation option for workshop participants is student dormitories. 2-person rooms are reserved for participants. Rates for staying single in the room is 800 try/night and sharing the room with another person is 400 try/night.
 
+SU has a main cafeteria (Akkol) that serves breakfast (07:30 - 10:30), lunch and dinner (11:30 - 20:30) at reasonable prices. In addition, there are alternatives like Kucuk Ev, Subway, Pizza Bulls, Starbucks, Piazza, Kopuklu Kahve and Fasshane inside the campus.
+
+Unfortunately, no funding is available for reimbursing food and accommodation expenses of participants.
+
 ## Online Participation
 
-If you are registered for online participation, you can join us using the following Zoom link:
+If you are registered for online participation, you can join us using the following Zoom link: TBA
 
-Recordings will be temporarily available here:
+Recordings will be temporarily available here: TBA
 
 ## Contact
 
