@@ -11,7 +11,7 @@ Coordinator: Süha Mutluergil (Sabanci University)
 Duration of the course: 5 days
 
 **IMPORTANT UPDATE:**
-Lectures will take place physically at Sabanci University, **FENS (Faculty of Engineering and Natural Sciences) L029**, everyday between 08.40 - 15.30.
+Lectures will take place physically at Sabanci University, **FENS (Faculty of Engineering and Natural Sciences) L029**, everyday between 08.40 - 15.30. You can see the ![campus map](CampusMap.jpeg).
 
 ## Introduction
 
