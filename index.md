@@ -7,9 +7,11 @@ Sept 5-9, 2022 | Sabanci University (SU), Istanbul
 
 Instructor: Emilio J. Gallego Arias (Inria)
 Coordinator: Süha Mutluergil (Sabanci University)
-Teaching Assistant: Ali Caglayan
 
 Duration of the course: 5 days
+
+**IMPORTANT UPDATE:**
+Lectures will take place physically at Sabanci University, **FENS (Faculty of Engineering and Natural Sciences) L029**, everyday between 08.40 - 15.30.
 
 ## Introduction
 
