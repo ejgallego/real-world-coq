@@ -11,7 +11,7 @@ Coordinator: Süha Mutluergil (Sabanci University)
 Duration of the course: 5 days
 
 **IMPORTANT UPDATE:**
-Lectures will take place physically at Sabanci University, **FENS (Faculty of Engineering and Natural Sciences) L029**, everyday between 08.40 - 15.30. You can see the ![campus map](CampusMap.jpeg).
+Lectures will take place physically at Sabanci University, **FENS (Faculty of Engineering and Natural Sciences) L029**, everyday between 08.40 - 15.30. You can check the campus map below for locating the room. In this map, FENS is marked with number 11 and L029 is at the L (-1) floor. Entrance through the FASS side (building number 12) is to the G (0) floor and entrance through the cafeteria (building number 21) is to the 1st floor. So, you have to go 1 floor down in the former case and 2 floors down in the latter case. Then, you can locate the room looking at the floor plans (basically L029 is at the corner with sides looking to buildings 12 and 13).  ![campus map](CampusMap.jpeg).
 
 ## Introduction
 
