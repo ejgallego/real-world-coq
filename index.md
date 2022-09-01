@@ -49,8 +49,8 @@ looking to buildings 12 and 13).
 
 ### Course Forum
 
-We will provide a course forum for discussion, link sharing, and
-general help.
+There is a [Course Forum](https://coq.zulipchat.com/#narrow/stream/341461-Sabanc.C4.B1-Coq-Course---Sept-2022)
+hosted at Coq's Zulip.
 
 ## Introduction
 
