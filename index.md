@@ -196,17 +196,17 @@ some common patterns often used in the field.
 
 #### Lesson links and schedule
 
-|--------------|--------------------------------------------------|-------|
-| Time         | Description                                      | Links |
-|--------------|--------------------------------------------------|-------|
-| 08:40--10:10 | Welcome, introduction to the Coq Proof Assistant |       |
-| 10-10--10:40 | Break                                            |       |
-| 10:40--12:10 | Teaching Session II                              |       |
-| 12:10--13:10 | Lunch                                            |       |
-| 13:10--14:10 | Exercise Session I                               |       |
-| 14:10--14:30 | Break                                            |       |
-| 14:30--15:30 | Exercise Session II                              |       |
-|--------------|--------------------------------------------------|-------|
+|--------------|--------------------------------------------------|-----------------------------------------------------------|
+| Time         | Description                                      | Links                                                     |
+|--------------|--------------------------------------------------|-----------------------------------------------------------|
+| 08:40--10:10 | Welcome, introduction to the Coq Proof Assistant | [slides](https://x80.org/rwc/slides/coq-introduction.pdf] |
+| 10-10--10:40 | Break                                            |                                                           |
+| 10:40--12:10 | Teaching Session II                              | [html file](https://x80.org/rwc/code/lesson_1.html)       |
+| 12:10--13:10 | Lunch                                            |                                                           |
+| 13:10--14:10 | Exercise Session I                               | [html file](https://x80.org/rwc/code/exercises_1.html)    |
+| 14:10--14:30 | Break                                            |                                                           |
+| 14:30--15:30 | Exercise Session II                              |                                                           |
+|--------------|--------------------------------------------------|-----------------------------------------------------------|
 
 ### Day 2 (Sep 06th, 2022): Core Coq tactics and proofs
 
