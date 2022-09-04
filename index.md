@@ -199,7 +199,7 @@ some common patterns often used in the field.
 |--------------|--------------------------------------------------|-----------------------------------------------------------|
 | Time         | Description                                      | Links                                                     |
 |--------------|--------------------------------------------------|-----------------------------------------------------------|
-| 08:40--10:10 | Welcome, introduction to the Coq Proof Assistant | [slides](https://x80.org/rwc/slides/coq-introduction.pdf] |
+| 08:40--10:10 | Welcome, introduction to the Coq Proof Assistant | [slides](https://x80.org/rwc/slides/coq-introduction.pdf) |
 | 10-10--10:40 | Break                                            |                                                           |
 | 10:40--12:10 | Teaching Session II                              | [html file](https://x80.org/rwc/code/lesson_1.html)       |
 | 12:10--13:10 | Lunch                                            |                                                           |
