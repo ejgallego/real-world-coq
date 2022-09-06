@@ -80,22 +80,26 @@ and active [user community](https://coq.inria.fr/community.html). New
 extensions and Coq based tools are frequently introduced.  It has a
 [sub-reddit](https://www.reddit.com/r/Coq/) and active support can be
 easily found on [Stack
-Overflow](https://stackoverflow.com/questions/tagged/coq) and [Stack
-Exchange](https://cstheory.stackexchange.com/questions/tagged/coq). Main
-supporter of COQ is INRIA - French public computer science
+Overflow](https://stackoverflow.com/questions/tagged/coq) and the new
+[Stack Exchange](https://proofassistants.stackexchange.com/) for proof
+assistants, the [Coq
+tag](https://.stackexchange.com/questions/tagged/coq) is also useful.
+
+Coq is mainly developed by Inria - French public computer science
 institute. Its development and maintenance is managed by the [Coq
-Team](https://coq.inria.fr/coq-team.html). Dr. Emilio Jesus Gallego
-Arias, the instructor for this workshop, is a member of the core team.
+Team](https://coq.inria.fr/coq-team.html), but the development follows
+a collaborative model and releases usually see dozens of external
+contributors. Dr. Emilio Jesus Gallego Arias, the instructor for this
+workshop, is a member of the core team.
 
 This course aims to introduce Coq proof assistant through basic
 concepts and various exercises. The course will be conducted by
 Dr. Emilio Jesus Gallego Arias (primary instructor), a member of the
-[Coq Core Team](https://coq.inria.fr/coq-team.html), and Ali Caglayan
-(teaching assistant), also a member of the [Coq
-team](https://coq.inria.fr/coq-team.html). The course will consist of
-lectures including interactive and hands-on exercises. The lectures
-will be conducted in English. Occassional help with Turkish-English
-translation will be provided by the TA and the coordinator.
+[Coq Core Team](https://coq.inria.fr/coq-team.html), The course will
+consist of lectures including interactive and hands-on exercises. The
+lectures will be conducted in English. Occassional help with
+Turkish-English translation will be provided by the TA and the
+coordinator.
 
 The first edition of the course will be held at Sabanci University,
 Istanbul as a workshop between 5-9 September. Lectures will be
@@ -196,17 +200,17 @@ some common patterns often used in the field.
 
 #### Lesson links and schedule
 
-|--------------|--------------------------------------------------|-----------------------------------------------------------|
-| Time         | Description                                      | Links                                                     |
-|--------------|--------------------------------------------------|-----------------------------------------------------------|
-| 08:40--10:10 | Welcome, introduction to the Coq Proof Assistant | [slides](https://x80.org/rwc/slides/coq-introduction.pdf) |
-| 10-10--10:40 | Break                                            |                                                           |
-| 10:40--12:10 | Teaching Session II                              | [html file](https://x80.org/rwc/code/lesson_1.html)       |
-| 12:10--13:10 | Lunch                                            |                                                           |
-| 13:10--14:10 | Exercise Session I                               | [html file](https://x80.org/rwc/code/exercises_1.html)    |
-| 14:10--14:30 | Break                                            |                                                           |
-| 14:30--15:30 | Exercise Session II                              |                                                           |
-|--------------|--------------------------------------------------|-----------------------------------------------------------|
+|--------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| Time         | Description                                      | Links                                                                                                                |
+|--------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| 08:40--10:10 | Welcome, introduction to the Coq Proof Assistant | [slides](https://x80.org/rwc/slides/coq-introduction.pdf)                                                            |
+| 10-10--10:40 | Break                                            |                                                                                                                      |
+| 10:40--12:10 | Type Theory as a Mathematical Language           | [html file](https://x80.org/rwc/code/lesson_1.html)                                                                  |
+| 12:10--13:10 | Lunch                                            |                                                                                                                      |
+| 13:10--14:10 | Exercise Session I                               | [html file](https://x80.org/rwc/code/exercises_1.html) [solutions](https://x80.org/rwc/code/exercises_1_solved.html) |
+| 14:10--14:30 | Break                                            |                                                                                                                      |
+| 14:30--15:30 | Exercise Session II                              |                                                                                                                      |
+|--------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 
 ### Day 2 (Sep 06th, 2022): Core Coq tactics and proofs
 
@@ -223,17 +227,17 @@ proofs.
 
 #### Lesson links and schedule
 
-|--------------|---------------------|-------|
-| Time         | Description         | Links |
-|--------------|---------------------|-------|
-| 08:40--10:10 | Teaching Session I  |       |
-| 10-10--10:40 | Break               |       |
-| 10:40--12:10 | Teaching Session II |       |
-| 12:10--13:10 | Lunch               |       |
-| 13:10--14:10 | Exercise Session I  |       |
-| 14:10--14:30 | Break               |       |
-| 14:30--15:30 | Exercise Session II |       |
-|--------------|---------------------|-------|
+|--------------|-----------------------------|--------------------------------------------------------|
+| Time         | Description                 | Links                                                  |
+|--------------|-----------------------------|--------------------------------------------------------|
+| 08:40--10:10 | Coq Core Tactics and Proofs | [html file](https://x80.org/rwc/code/lesson_2_1.html)  |
+| 10-10--10:40 | Break                       |                                                        |
+| 10:40--12:10 | Structures and Libraries    | [html file](https://x80.org/rwc/code/lesson_2_2.html)  |
+| 12:10--13:10 | Lunch                       |                                                        |
+| 13:10--14:10 | Exercise Session I          | [html file](https://x80.org/rwc/code/exercises_2.html) |
+| 14:10--14:30 | Break                       |                                                        |
+| 14:30--15:30 | Exercise Session II         |                                                        |
+|--------------|-----------------------------|--------------------------------------------------------|
 
 ### Day 3 (Sep 07th, 2022): Program verification
 
