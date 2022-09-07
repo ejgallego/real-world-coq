@@ -239,37 +239,37 @@ proofs.
 | 14:30--15:30 | Exercise Session II         |                                                        |
 |--------------|-----------------------------|--------------------------------------------------------|
 
-### Day 3 (Sep 07th, 2022): Program verification
+### Day 3 (Sep 07th, 2022): Mathematics verification
 
-We will give an overview of the main techniques used to verify
-the correctness of programs, including the definition of custom
-program logics, and compiler correctness by simulation.
+In this session, we will discuss the proof style used to the
+construction of proofs founds in the mathematics literature.
 
-In this session, we will follow a proof style often found in the
-programming language literature.
+We will discuss libraries and proof techniques for (linear) algebra,
+and group theory.
 
 #### Lesson links and schedule
 
-|--------------|---------------------|-------|
-| Time         | Description         | Links |
-|--------------|---------------------|-------|
-| 08:40--10:10 | Teaching Session I  |       |
-| 10-10--10:40 | Break               |       |
-| 10:40--12:10 | Teaching Session II |       |
-| 12:10--13:10 | Lunch               |       |
-| 13:10--14:10 | Exercise Session I  |       |
-| 14:10--14:30 | Break               |       |
-| 14:30--15:30 | Exercise Session II |       |
-|--------------|---------------------|-------|
+|--------------|--------------------------|--------------------------------------------------------|
+| Time         | Description              | Links                                                  |
+|--------------|--------------------------|--------------------------------------------------------|
+| 08:40--10:10 | Mathematics verification | [html file](https://x80.org/rwc/code/lesson_3.html)  |
+| 10-10--10:40 | Break                    |                                                        |
+| 10:40--12:10 | Mathematics verification |                                                        |
+| 12:10--13:10 | Lunch                    |                                                        |
+| 13:10--14:10 | Exercise Session I       | [html file](https://x80.org/rwc/code/exercises_3.html) |
+| 14:10--14:30 | Break                    |                                                        |
+| 14:30--15:30 | Exercise Session II      |                                                        |
+|--------------|--------------------------|--------------------------------------------------------|
 
-### Day 4 (Sep 08th, 2022): Mathematics verification
+### Day 4 (Sep 08th, 2022): Program Verification
 
-In this session, we will present a proof style a bit different
-from the previous one, which is more adapter to the construction
-of mathematical proofs.
+In this lecture, we will give an overview of the main techniques used
+to verify the correctness of programs, including the definition of
+custom program logics, and compiler correctness by simulation.
 
-We will discuss libraries and proof techniques for (linear) algebra,
-classical analysis, and group theory.
+In this session, we will follow a proof style often found in the
+programming language literature, which is a bit different from the one
+used by mathematicians.
 
 #### Lesson links and schedule
 
