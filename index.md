@@ -252,7 +252,7 @@ and group theory.
 |--------------|--------------------------|--------------------------------------------------------|
 | Time         | Description              | Links                                                  |
 |--------------|--------------------------|--------------------------------------------------------|
-| 08:40--10:10 | Mathematics verification | [html file](https://x80.org/rwc/code/lesson_3.html)  |
+| 08:40--10:10 | Mathematics verification | [html file](https://x80.org/rwc/code/lesson_3.html)    |
 | 10-10--10:40 | Break                    |                                                        |
 | 10:40--12:10 | Mathematics verification |                                                        |
 | 12:10--13:10 | Lunch                    |                                                        |
@@ -273,17 +273,17 @@ used by mathematicians.
 
 #### Lesson links and schedule
 
-|--------------|---------------------|-------|
-| Time         | Description         | Links |
-|--------------|---------------------|-------|
-| 08:40--10:10 | Teaching Session I  |       |
-| 10-10--10:40 | Break               |       |
-| 10:40--12:10 | Teaching Session II |       |
-| 12:10--13:10 | Lunch               |       |
-| 13:10--14:10 | Exercise Session I  |       |
-| 14:10--14:30 | Break               |       |
-| 14:30--15:30 | Exercise Session II |       |
-|--------------|---------------------|-------|
+|--------------|----------------------|-----------------------------------------------------|
+| Time         | Description          | Links                                               |
+|--------------|----------------------|-----------------------------------------------------|
+| 08:40--10:10 | Program Verification | [html file](https://x80.org/rwc/code/lesson_4.html) |
+| 10-10--10:40 | Break                |                                                     |
+| 10:40--12:10 | Program Verification |                                                     |
+| 12:10--13:10 | Lunch                |                                                     |
+| 13:10--14:10 | Exercise Session I   |                                                     |
+| 14:10--14:30 | Break                |                                                     |
+| 14:30--15:30 | Exercise Session II  |                                                     |
+|--------------|----------------------|-----------------------------------------------------|
 
 ### Day 5 (Sep 09th, 2022): Advanced topics and Extended Exercise session.
 
