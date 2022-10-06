@@ -10,47 +10,12 @@ Coordinator: Süha Mutluergil (Sabanci University)
 
 Duration of the course: 5 days
 
-### Required Software
+See the [attending the course](#Attending) section for more
+information on attending.
 
-Each participant is expected to bring their own laptop. A laptop is
-required as the course is interactive.
-
-The course requires a recent version of the Chrome Web Browser. Other
-browsers may work, but they are supported at your own risk.
-
-Lessons will take place using the [jsCoq](https://coq.vercel.app/)
-software. Please, click on the above link and **check the tutorial
-works** on your computer.
-
-Internet connection is much recommended but not required, let us know
-if you can't connect to internet and we will find a way to distribute
-the files.
-
-### Location
-
-**IMPORTANT UPDATE:**
-
-Lectures will take place physically at
-
-> Sabanci University, **FENS (Faculty of Engineering and Natural Sciences) L029**
-
-everyday between 08.40 - 15.30.
-
-Check [the campus map below](#campus map) for locating the room. In
-this map, **FENS** is marked with number 11 and L029 is at the L (-1)
-floor. Entrance through the FASS side (building number 12) is to the G
-(0) floor and entrance through the cafeteria (building number 21) is
-to the 1st floor. So, you have to go 1 floor down in the former case
-and 2 floors down in the latter case. Then, you can locate the room
-looking at the floor plans (basically L029 is at the corner with sides
-looking to buildings 12 and 13).
-
-![campus map](img/CampusMap.jpeg).
-
-### Course Forum
-
-There is a [Course Forum](https://coq.zulipchat.com/#narrow/stream/341461-Sabanc.C4.B1-Coq-Course---Sept-2022)
-hosted at Coq's Zulip.
+This course has been financed by the COST Action
+[EuroProofNet](https://europroofnet.github.io/), supported by [COST
+(European Cooperation in Science and Technology)](https://www.cost.eu)
 
 ## Introduction
 
@@ -82,8 +47,7 @@ extensions and Coq based tools are frequently introduced.  It has a
 easily found on [Stack
 Overflow](https://stackoverflow.com/questions/tagged/coq) and the new
 [Stack Exchange](https://proofassistants.stackexchange.com/) for proof
-assistants, the [Coq
-tag](https://.stackexchange.com/questions/tagged/coq) is also useful.
+assistants, the [Coq tag](https://stackexchange.com/questions/tagged/coq) is also useful.
 
 Coq is mainly developed by Inria - French public computer science
 institute. Its development and maintenance is managed by the [Coq
@@ -97,9 +61,7 @@ concepts and various exercises. The course will be conducted by
 Dr. Emilio Jesus Gallego Arias (primary instructor), a member of the
 [Coq Core Team](https://coq.inria.fr/coq-team.html), The course will
 consist of lectures including interactive and hands-on exercises. The
-lectures will be conducted in English. Occassional help with
-Turkish-English translation will be provided by the TA and the
-coordinator.
+lectures will be conducted in English.
 
 The first edition of the course will be held at Sabanci University,
 Istanbul as a workshop between 5-9 September. Lectures will be
@@ -107,87 +69,17 @@ hybrid. The attendance is limited to 20 physical and 10 online
 participants. Application information and further details on the
 workshop is provided below.
 
-## Important Dates
-
-Application Deadline: 31 August
-Notifications: 1 September
-Workshop: 5-9 September
-
-## Registration
-
-Only registered participants are allowed to attend the workshop. The
-capacity is limited to 20 pyhsical, 10 online people. For registraion
-(both online and physical), please fill the following
-[form](https://forms.gle/amVNTKTNvemS73Ki6). Participants will be
-picked by first come first served principle.
-
-Registration is free for both online and physical
-attendance. Unfortunately, no funding is available for transportation,
-accoommodation and food, not even for the students.
-
-## Transportation
-
-The workshop will take place at SU Tuzla Campus. It is adjacent to
-Istanbul Anadolu Highway (TEM, E-80) and 20 minutes drive away from
-Sabiha Gokcen International Airport.
-
-Transportation serviceses are mainly provided by shuttles of Gursel
-Turizm. Shuttle schedule can be seen at
-https://www.sabanciuniv.edu/en/shuttle-hours
-
-Otherwise, IETT bus: KM18 can be taken, which has a stop directly
-inside of Sabanci University.
-
-Another alternative is taking a taxi from from Tavsantepe metro
-station, which can be more costly but more comfortable as well.
-
-Note that Gursel Shuttles also have departures from Pendik metro
-station, which can be useful for those who want to use metro-shuttle
-combination.
-
-## Accommodation
-
-There are no housing options inside Sabanci University
-Campus. Unfortunately, the guesthouse will be closed for maintenance
-during the workshop dates. Only in campus accommodation option for
-workshop participants is student dormitories. 2-person rooms are
-reserved for participants. Rates for staying single in the room is 800
-try/night and sharing the room with another person is 400 try/night.
-
-SU has a main cafeteria (Akkol) that serves breakfast (07:30 - 10:30),
-lunch and dinner (11:30 - 20:30) at reasonable prices. In addition,
-there are alternatives like Kucuk Ev, Subway, Pizza Bulls, Starbucks,
-Piazza, Kopuklu Kahve and Fasshane inside the campus.
-
-Unfortunately, no funding is available for reimbursing food and
-accommodation expenses of participants.
-
-## Online Participation
-
-If you are registered for online participation, you can join us using
-the following Zoom link: TBA
-
-Recordings will be temporarily available here: TBA
-
-## Contact
-
-For your questions related to the organization, please email to [Suha
-Mutluergil](mailto:suha.mutluergil@sabanciuniv.edu) or [Yagiz
-Kilicarslan](mailto:ykilicarslan@sabanciuniv.edu).
-
 ## Schedule and Syllabus:
 
-The course will take place using an intensive schedule, with 3 hours in
-the morning for teaching, and 3 hours in the afternoon for exercises
-(with the corresponding breaks).
+The course will take place using an intensive schedule, with 3 hours
+in the morning for teaching, and 3 hours in the afternoon for
+exercises (with the corresponding breaks).
 
 Attendants are expected to follow the instructor along, as the lessons
 themselves are interactive and allow the attendants to interact with
-them.
+the Coq system.
 
-A laptop with internet connection is required, tho the lessons can be
-downloaded locally if desired. The lessons require a modern web
-browser.
+See the references
 
 ### Day 1 (Sep 05th, 2022): Introduction to type theory as a mathematical language
 
@@ -234,7 +126,7 @@ proofs.
 | 10-10--10:40 | Break                       |                                                        |
 | 10:40--12:10 | Structures and Libraries    | [html file](https://x80.org/rwc/code/lesson_2_2.html)  |
 | 12:10--13:10 | Lunch                       |                                                        |
-| 13:10--14:10 | Exercise Session I          | [html file](https://x80.org/rwc/code/exercises_2.html) |
+| 13:10--14:10 | Exercise Session I          | [html file](https://x80.org/rwc/code/exercises_2.html) [solutions](https://x80.org/rwc/code/exercises_2_solved.html) |
 | 14:10--14:30 | Break                       |                                                        |
 | 14:30--15:30 | Exercise Session II         |                                                        |
 |--------------|-----------------------------|--------------------------------------------------------|
@@ -304,3 +196,115 @@ wrap their exercise sheets.
 | 14:10--14:30 | Break                |       |
 | 14:30--15:30 | Exercise Session III |       |
 |--------------|----------------------|-------|
+
+## Attending
+
+### Important Dates
+
+Application Deadline: 31 August
+Notifications: 1 September
+Workshop: 5-9 September
+
+### Registration
+
+Only registered participants are allowed to attend the workshop. The
+capacity is limited to 20 pyhsical, 10 online people. For registraion
+(both online and physical), please fill the following
+[form](https://forms.gle/amVNTKTNvemS73Ki6). Participants will be
+picked by first come first served principle.
+
+Registration is free for both online and physical
+attendance. Unfortunately, no funding is available for transportation,
+accoommodation and food, not even for the students.
+
+### Required Software
+
+Each participant is expected to bring their own laptop. A laptop is
+required as the course is interactive.
+
+The course requires a recent version of the Chrome Web Browser. Other
+browsers may work, but they are supported at your own risk.
+
+Lessons will take place using the [jsCoq](https://coq.vercel.app/)
+software. Please, click on the above link and **check the tutorial
+works** on your computer.
+
+Internet connection is much recommended but not required, let us know
+if you can't connect to internet and we will find a way to distribute
+the files.
+
+### Location
+
+**IMPORTANT UPDATE:**
+
+Lectures will take place physically at
+
+> Sabanci University, **FENS (Faculty of Engineering and Natural Sciences) L029**
+
+everyday between 08.40 - 15.30.
+
+Check [the campus map below](#campus map) for locating the room. In
+this map, **FENS** is marked with number 11 and L029 is at the L (-1)
+floor. Entrance through the FASS side (building number 12) is to the G
+(0) floor and entrance through the cafeteria (building number 21) is
+to the 1st floor. So, you have to go 1 floor down in the former case
+and 2 floors down in the latter case. Then, you can locate the room
+looking at the floor plans (basically L029 is at the corner with sides
+looking to buildings 12 and 13).
+
+![campus map](img/CampusMap.jpeg).
+
+### Course Forum
+
+There is a [Course Forum](https://coq.zulipchat.com/#narrow/stream/341461-Sabanc.C4.B1-Coq-Course---Sept-2022)
+hosted at Coq's Zulip.
+
+### Transportation
+
+The workshop will take place at SU Tuzla Campus. It is adjacent to
+Istanbul Anadolu Highway (TEM, E-80) and 20 minutes drive away from
+Sabiha Gokcen International Airport.
+
+Transportation serviceses are mainly provided by shuttles of Gursel
+Turizm. Shuttle schedule can be seen at
+https://www.sabanciuniv.edu/en/shuttle-hours
+
+Otherwise, IETT bus: KM18 can be taken, which has a stop directly
+inside of Sabanci University.
+
+Another alternative is taking a taxi from from Tavsantepe metro
+station, which can be more costly but more comfortable as well.
+
+Note that Gursel Shuttles also have departures from Pendik metro
+station, which can be useful for those who want to use metro-shuttle
+combination.
+
+### Accommodation
+
+There are no housing options inside Sabanci University
+Campus. Unfortunately, the guesthouse will be closed for maintenance
+during the workshop dates. Only in campus accommodation option for
+workshop participants is student dormitories. 2-person rooms are
+reserved for participants. Rates for staying single in the room is 800
+try/night and sharing the room with another person is 400 try/night.
+
+SU has a main cafeteria (Akkol) that serves breakfast (07:30 - 10:30),
+lunch and dinner (11:30 - 20:30) at reasonable prices. In addition,
+there are alternatives like Kucuk Ev, Subway, Pizza Bulls, Starbucks,
+Piazza, Kopuklu Kahve and Fasshane inside the campus.
+
+Unfortunately, no funding is available for reimbursing food and
+accommodation expenses of participants.
+
+### Online Participation
+
+If you are registered for online participation, you can join us using
+the following Zoom link: TBA
+
+Recordings will be temporarily available here: TBA
+
+## Contact
+
+For your questions related to the organization, please email to [Suha
+Mutluergil](mailto:suha.mutluergil@sabanciuniv.edu) or [Yagiz
+Kilicarslan](mailto:ykilicarslan@sabanciuniv.edu).
