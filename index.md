@@ -14,8 +14,11 @@ See the [attending the course](#Attending) section for more
 information on attending.
 
 This course has been financed by the COST Action
-[EuroProofNet](https://europroofnet.github.io/), supported by [COST
-(European Cooperation in Science and Technology)](https://www.cost.eu)
+![EuroProofNetLogo](img/epn-logo.svg){:height="22px" width="22px"} ,
+[EuroProofNet](https://europroofnet.github.io/)
+![EuroProofNetLogo](img/epn-logo.svg){:height="22px" width="22px"} ,
+supported by [COST (European Cooperation in Science and
+Technology)](https://www.cost.eu)
 
 ## Introduction
 
