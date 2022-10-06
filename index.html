@@ -1,0 +1,560 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Sabanci Coq Course</title>
+<meta name="generator" content="Jekyll v4.2.2" />
+<meta property="og:title" content="Sabanci Coq Course" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://ejgallego.github.io/real-world-coq/" />
+<meta property="og:url" content="https://ejgallego.github.io/real-world-coq/" />
+<meta property="og:site_name" content="Sabanci Coq Course" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Sabanci Coq Course" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","headline":"Sabanci Coq Course","name":"Sabanci Coq Course","url":"https://ejgallego.github.io/real-world-coq/"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/real-world-coq/assets/main.css"><link type="application/atom+xml" rel="alternate" href="https://ejgallego.github.io/real-world-coq/feed.xml" title="Sabanci Coq Course" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/real-world-coq/">Sabanci Coq Course</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <div class="home"><h2 id="title-real-world-coq--an-introduction-to-mechanically-verified-mathematical-proofs">Title: “Real World Coq – An introduction to mechanically verified mathematical proofs”</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Sept 5-9, 2022</td>
+      <td>Sabanci University (SU), Istanbul</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Instructor: Emilio J. Gallego Arias (Inria)
+Coordinator: Süha Mutluergil (Sabanci University)</p>
+
+<p>Duration of the course: 5 days</p>
+
+<p>See the <a href="#Attending">attending the course</a> section for more
+information on attending.</p>
+
+<p>This course has been financed by the COST Action
+<img src="img/epn-logo.svg" alt="EuroProofNetLogo" height="22px" width="22px" /> ,
+<a href="https://europroofnet.github.io/">EuroProofNet</a>
+<img src="img/epn-logo.svg" alt="EuroProofNetLogo" height="22px" width="22px" /> ,
+supported by <a href="https://www.cost.eu">COST (European Cooperation in Science and
+Technology)</a></p>
+
+<h2 id="introduction">Introduction</h2>
+
+<p>Proofs constitute the backbone of both Mathematics and Computer
+Science (CS). Doing a mathematical proof requires domain knowledge,
+solid reasoning skills and applying reasoning techniques carefully
+step-by-step. It is a tedious and error-prone task. For this reason,
+computer scientists aim to develop programs for mechanizing and/or
+automating the proof process. Coq is an interactive proof assistant
+developed for this purpose. Using Coq, one can define mathematical
+objects or computer programs, express theorems or assertions on these
+entities, and mechanically check correctness of them by either
+interacting with Coq or automatically by using so called proof tactics
+depending on the availability of an applicable one.</p>
+
+<p><a href="https://coq.inria.fr/">Coq</a> is an industrial-scale tool successfully
+used for both research and commercial purposes. In 2005, famous four
+color theorem was proven in Coq yielding a proof library as a by
+product with general purpose features that could be used in many
+settings. AbsInt company develops and maintains an optimized,
+commercially used C compiler called CompCert. CompCert is specified,
+programmed and verified in Coq, and its performance is comparable with
+canonical GCC compiler.</p>
+
+<p>Coq is a free open-source software developed and maintained by a large
+and active <a href="https://coq.inria.fr/community.html">user community</a>. New
+extensions and Coq based tools are frequently introduced.  It has a
+<a href="https://www.reddit.com/r/Coq/">sub-reddit</a> and active support can be
+easily found on <a href="https://stackoverflow.com/questions/tagged/coq">Stack
+Overflow</a> and the new
+<a href="https://proofassistants.stackexchange.com/">Stack Exchange</a> for proof
+assistants, the <a href="https://stackexchange.com/questions/tagged/coq">Coq tag</a> is also useful.</p>
+
+<p>Coq is mainly developed by Inria - French public computer science
+institute. Its development and maintenance is managed by the <a href="https://coq.inria.fr/coq-team.html">Coq
+Team</a>, but the development follows
+a collaborative model and releases usually see dozens of external
+contributors. Dr. Emilio Jesus Gallego Arias, the instructor for this
+workshop, is a member of the core team.</p>
+
+<p>This course aims to introduce Coq proof assistant through basic
+concepts and various exercises. The course will be conducted by
+Dr. Emilio Jesus Gallego Arias (primary instructor), a member of the
+<a href="https://coq.inria.fr/coq-team.html">Coq Core Team</a>, The course will
+consist of lectures including interactive and hands-on exercises. The
+lectures will be conducted in English.</p>
+
+<p>The first edition of the course will be held at Sabanci University,
+Istanbul as a workshop between 5-9 September. Lectures will be
+hybrid. The attendance is limited to 20 physical and 10 online
+participants. Application information and further details on the
+workshop is provided below.</p>
+
+<h2 id="schedule-and-syllabus">Schedule and Syllabus:</h2>
+
+<p>The course will take place using an intensive schedule, with 3 hours
+in the morning for teaching, and 3 hours in the afternoon for
+exercises (with the corresponding breaks).</p>
+
+<p>Attendants are expected to follow the instructor along, as the lessons
+themselves are interactive and allow the attendants to interact with
+the Coq system.</p>
+
+<p>See the references</p>
+
+<h3 id="day-1-sep-05th-2022-introduction-to-type-theory-as-a-mathematical-language">Day 1 (Sep 05th, 2022): Introduction to type theory as a mathematical language</h3>
+
+<p>We will review the formal logical language that is at the base of
+interactive proof assistants such as Coq or Lean.</p>
+
+<p>We will introduce the concept of “functional programming”, which lies
+at the root of the construction of Coq (or Lean) proofs, and review
+some common patterns often used in the field.</p>
+
+<h4 id="lesson-links-and-schedule">Lesson links and schedule</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Description</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>08:40–10:10</td>
+      <td>Welcome, introduction to the Coq Proof Assistant</td>
+      <td><a href="https://x80.org/rwc/slides/coq-introduction.pdf">slides</a></td>
+    </tr>
+    <tr>
+      <td>10-10–10:40</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10:40–12:10</td>
+      <td>Type Theory as a Mathematical Language</td>
+      <td><a href="https://x80.org/rwc/code/lesson_1.html">html file</a></td>
+    </tr>
+    <tr>
+      <td>12:10–13:10</td>
+      <td>Lunch</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>13:10–14:10</td>
+      <td>Exercise Session I</td>
+      <td><a href="https://x80.org/rwc/code/exercises_1.html">html file</a> <a href="https://x80.org/rwc/code/exercises_1_solved.html">solutions</a></td>
+    </tr>
+    <tr>
+      <td>14:10–14:30</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14:30–15:30</td>
+      <td>Exercise Session II</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="day-2-sep-06th-2022-core-coq-tactics-and-proofs">Day 2 (Sep 06th, 2022): Core Coq tactics and proofs</h3>
+
+<p>We will introduce the Coq proof assistant more in depth, and
+review how it is different from other programming languages.</p>
+
+<p>We will discuss Coq datatypes (“inductive types”), which are a
+powerful tool for the modelling of mathematical concepts, and we
+will discover the main proof techniques, tactics, and library
+objects available in Coq and the Mathematical components library.</p>
+
+<p>We will place special focus on the role of libraries and modular
+proofs.</p>
+
+<h4 id="lesson-links-and-schedule-1">Lesson links and schedule</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Description</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>08:40–10:10</td>
+      <td>Coq Core Tactics and Proofs</td>
+      <td><a href="https://x80.org/rwc/code/lesson_2_1.html">html file</a></td>
+    </tr>
+    <tr>
+      <td>10-10–10:40</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10:40–12:10</td>
+      <td>Structures and Libraries</td>
+      <td><a href="https://x80.org/rwc/code/lesson_2_2.html">html file</a></td>
+    </tr>
+    <tr>
+      <td>12:10–13:10</td>
+      <td>Lunch</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>13:10–14:10</td>
+      <td>Exercise Session I</td>
+      <td><a href="https://x80.org/rwc/code/exercises_2.html">html file</a> <a href="https://x80.org/rwc/code/exercises_2_solved.html">solutions</a></td>
+    </tr>
+    <tr>
+      <td>14:10–14:30</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14:30–15:30</td>
+      <td>Exercise Session II</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="day-3-sep-07th-2022-mathematics-verification">Day 3 (Sep 07th, 2022): Mathematics verification</h3>
+
+<p>In this session, we will discuss the proof style used to the
+construction of proofs founds in the mathematics literature.</p>
+
+<p>We will discuss libraries and proof techniques for (linear) algebra,
+and group theory.</p>
+
+<h4 id="lesson-links-and-schedule-2">Lesson links and schedule</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Description</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>08:40–10:10</td>
+      <td>Mathematics verification</td>
+      <td><a href="https://x80.org/rwc/code/lesson_3.html">html file</a></td>
+    </tr>
+    <tr>
+      <td>10-10–10:40</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10:40–12:10</td>
+      <td>Mathematics verification</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>12:10–13:10</td>
+      <td>Lunch</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>13:10–14:10</td>
+      <td>Exercise Session I</td>
+      <td><a href="https://x80.org/rwc/code/exercises_3.html">html file</a></td>
+    </tr>
+    <tr>
+      <td>14:10–14:30</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14:30–15:30</td>
+      <td>Exercise Session II</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="day-4-sep-08th-2022-program-verification">Day 4 (Sep 08th, 2022): Program Verification</h3>
+
+<p>In this lecture, we will give an overview of the main techniques used
+to verify the correctness of programs, including the definition of
+custom program logics, and compiler correctness by simulation.</p>
+
+<p>In this session, we will follow a proof style often found in the
+programming language literature, which is a bit different from the one
+used by mathematicians.</p>
+
+<h4 id="lesson-links-and-schedule-3">Lesson links and schedule</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Description</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>08:40–10:10</td>
+      <td>Program Verification</td>
+      <td><a href="https://x80.org/rwc/code/lesson_4.html">html file</a></td>
+    </tr>
+    <tr>
+      <td>10-10–10:40</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10:40–12:10</td>
+      <td>Program Verification</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>12:10–13:10</td>
+      <td>Lunch</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>13:10–14:10</td>
+      <td>Exercise Session I</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14:10–14:30</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14:30–15:30</td>
+      <td>Exercise Session II</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="day-5-sep-09th-2022-advanced-topics-and-extended-exercise-session">Day 5 (Sep 09th, 2022): Advanced topics and Extended Exercise session.</h3>
+
+<p>We will briefly discuss some advances topics and trends in the area,
+to proceed with an extended tutorial session to allow participants to
+wrap their exercise sheets.</p>
+
+<h4 id="lesson-links-and-schedule-4">Lesson links and schedule</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Description</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>08:40–10:40</td>
+      <td>Advanced topics</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>10-40–11:10</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>11:10–12:10</td>
+      <td>Exercise Session I</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>12:10–13:10</td>
+      <td>Lunch</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>13:10–14:10</td>
+      <td>Exercise Session II</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14:10–14:30</td>
+      <td>Break</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>14:30–15:30</td>
+      <td>Exercise Session III</td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="attending">Attending</h2>
+
+<h3 id="important-dates">Important Dates</h3>
+
+<p>Application Deadline: 31 August
+Notifications: 1 September
+Workshop: 5-9 September</p>
+
+<h3 id="registration">Registration</h3>
+
+<p>Only registered participants are allowed to attend the workshop. The
+capacity is limited to 20 pyhsical, 10 online people. For registraion
+(both online and physical), please fill the following
+<a href="https://forms.gle/amVNTKTNvemS73Ki6">form</a>. Participants will be
+picked by first come first served principle.</p>
+
+<p>Registration is free for both online and physical
+attendance. Unfortunately, no funding is available for transportation,
+accoommodation and food, not even for the students.</p>
+
+<h3 id="required-software">Required Software</h3>
+
+<p>Each participant is expected to bring their own laptop. A laptop is
+required as the course is interactive.</p>
+
+<p>The course requires a recent version of the Chrome Web Browser. Other
+browsers may work, but they are supported at your own risk.</p>
+
+<p>Lessons will take place using the <a href="https://coq.vercel.app/">jsCoq</a>
+software. Please, click on the above link and <strong>check the tutorial
+works</strong> on your computer.</p>
+
+<p>Internet connection is much recommended but not required, let us know
+if you can’t connect to internet and we will find a way to distribute
+the files.</p>
+
+<h3 id="location">Location</h3>
+
+<p><strong>IMPORTANT UPDATE:</strong></p>
+
+<p>Lectures will take place physically at</p>
+
+<blockquote>
+  <p>Sabanci University, <strong>FENS (Faculty of Engineering and Natural Sciences) L029</strong></p>
+</blockquote>
+
+<p>everyday between 08.40 - 15.30.</p>
+
+<p>Check <a href="#campus map">the campus map below</a> for locating the room. In
+this map, <strong>FENS</strong> is marked with number 11 and L029 is at the L (-1)
+floor. Entrance through the FASS side (building number 12) is to the G
+(0) floor and entrance through the cafeteria (building number 21) is
+to the 1st floor. So, you have to go 1 floor down in the former case
+and 2 floors down in the latter case. Then, you can locate the room
+looking at the floor plans (basically L029 is at the corner with sides
+looking to buildings 12 and 13).</p>
+
+<p><img src="img/CampusMap.jpeg" alt="campus map" />.</p>
+
+<h3 id="course-forum">Course Forum</h3>
+
+<p>There is a <a href="https://coq.zulipchat.com/#narrow/stream/341461-Sabanc.C4.B1-Coq-Course---Sept-2022">Course Forum</a>
+hosted at Coq’s Zulip.</p>
+
+<h3 id="transportation">Transportation</h3>
+
+<p>The workshop will take place at SU Tuzla Campus. It is adjacent to
+Istanbul Anadolu Highway (TEM, E-80) and 20 minutes drive away from
+Sabiha Gokcen International Airport.</p>
+
+<p>Transportation serviceses are mainly provided by shuttles of Gursel
+Turizm. Shuttle schedule can be seen at
+https://www.sabanciuniv.edu/en/shuttle-hours</p>
+
+<p>Otherwise, IETT bus: KM18 can be taken, which has a stop directly
+inside of Sabanci University.</p>
+
+<p>Another alternative is taking a taxi from from Tavsantepe metro
+station, which can be more costly but more comfortable as well.</p>
+
+<p>Note that Gursel Shuttles also have departures from Pendik metro
+station, which can be useful for those who want to use metro-shuttle
+combination.</p>
+
+<h3 id="accommodation">Accommodation</h3>
+
+<p>There are no housing options inside Sabanci University
+Campus. Unfortunately, the guesthouse will be closed for maintenance
+during the workshop dates. Only in campus accommodation option for
+workshop participants is student dormitories. 2-person rooms are
+reserved for participants. Rates for staying single in the room is 800
+try/night and sharing the room with another person is 400 try/night.</p>
+
+<p>SU has a main cafeteria (Akkol) that serves breakfast (07:30 - 10:30),
+lunch and dinner (11:30 - 20:30) at reasonable prices. In addition,
+there are alternatives like Kucuk Ev, Subway, Pizza Bulls, Starbucks,
+Piazza, Kopuklu Kahve and Fasshane inside the campus.</p>
+
+<p>Unfortunately, no funding is available for reimbursing food and
+accommodation expenses of participants.</p>
+
+<h3 id="online-participation">Online Participation</h3>
+
+<p>If you are registered for online participation, you can join us using
+the following Zoom link: TBA</p>
+
+<p>Recordings will be temporarily available here: TBA</p>
+
+<h2 id="contact">Contact</h2>
+
+<p>For your questions related to the organization, please email to <a href="mailto:suha.mutluergil@sabanciuniv.edu">Suha
+Mutluergil</a> or <a href="mailto:ykilicarslan@sabanciuniv.edu">Yagiz
+Kilicarslan</a>.</p>
+</div>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/real-world-coq/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Sabanci Coq Course</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">Sabanci Coq Course</li></ul>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p></p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>
