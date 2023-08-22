@@ -1,16 +1,17 @@
 ---
-layout: home
+title: "Real World Coq Tutorial at Boston University"
+layout: page
 ---
-## Title: "Real World Coq -- An introduction to mechanically verified mathematical proofs"
+## "Real World Coq -- An introduction to mechanically verified mathematical proofs"
 
-Aug 29-31st, 2023 | Boston University (BU)
+Aug 29-31st, 2023 | Boston University (BU), Boston
 
-Instructor: Emilio J. Gallego Arias (Inria)
-Local Organizer: Marco Gaboardi (Boston University)
+- Instructor: Emilio J. Gallego Arias (Inria)
+- Local Organizer: Marco Gaboardi (Boston University)
 
 Duration of the tutorial: 3 days
 
-See the [attending the course](#Attending) section for more
+See the [attending the course](#attending) section for more
 information on attending.
 
 This course has been generously supported by Boston University.

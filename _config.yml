@@ -1,12 +1,16 @@
-title: "Sabanci Coq Course"
+title: "Real World Coq"
 
 url: https://ejgallego.github.io
 baseurl: /real-world-coq
+repository: ejgallego/real-world-coq
 
 # permalink: date
 
 theme: minima
 markdown: kramdown
+
+header_pages:
+  - 2023-09-bu/index.md
 
 kramdown:
   input: GFM

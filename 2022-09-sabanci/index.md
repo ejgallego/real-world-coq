@@ -1,5 +1,6 @@
 ---
-layout: home
+title: "Real World Coq Tutorial at Sabanci University"
+layout: page
 ---
 ## Title: "Real World Coq -- An introduction to mechanically verified mathematical proofs"
 
