@@ -45,9 +45,9 @@ Please register using this [form](https://forms.gle/zxfQUuur47i4nVMU9) .
 
 ### Location
 
-The location at BU is CDS 1001 (CDS building location:
-https://goo.gl/maps/AfXDHjexrkMb7K7KA or
-https://osm.org/go/ZfIvRQbqa?m= )
+The location at BU is CDS 1001. CDS building location:
+- [Google](https://goo.gl/maps/AfXDHjexrkMb7K7KA)
+- [OpenStreetMap](https://osm.org/go/ZfIvRQbqa?m=)
 
 ### Required Software
 
