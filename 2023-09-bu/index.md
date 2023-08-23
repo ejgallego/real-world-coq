@@ -4,7 +4,7 @@ layout: page
 ---
 ## "Real World Coq -- An introduction to mechanically verified mathematical proofs"
 
-Aug 29-31st, 2023 | Boston University (BU), Boston
+Aug 29-31st, 2023 | Boston University (BU), Boston, USA
 
 - Instructor: Emilio J. Gallego Arias (Inria)
 - Local Organizer: Marco Gaboardi (Boston University)
@@ -12,9 +12,62 @@ Aug 29-31st, 2023 | Boston University (BU), Boston
 Duration of the tutorial: 3 days
 
 See the [attending the course](#attending) section for more
-information on attending.
+information on attending and registration.
 
 This course has been generously supported by Boston University.
+
+## Attending
+
+The course can be attended onsite at Boston University, or online
+using Zoom.
+
+### Is this course for me?
+
+This course is for you if you would like to learn about formal proofs
+of software and mathematics that are done using state-of-the-art
+libraries and tools.
+
+In particular, we will use the [Coq](https://coq.inria.fr/) system as
+our theorem prover, and the [Mathematical Components Library](https://math-comp.github.io/)
+as a library of choice.
+
+The will focus on doing proofs using the large selection of tools the
+mature math-comp library provides. Such tools and methodology lead to
+a proof style that is pretty efficient and maintainable.
+
+Previous knowledge of Coq and formal proofs is not required for this
+course, but indeed experience with these subjects and / or functional
+programming could be of help.
+
+### Registration
+
+Please register using this [form](https://forms.gle/zxfQUuur47i4nVMU9) .
+
+### Location
+
+The location at BU is CDS 1001 (CDS building location:
+https://goo.gl/maps/AfXDHjexrkMb7K7KA or
+https://osm.org/go/ZfIvRQbqa?m= )
+
+### Required Software
+
+Each participant is expected to bring their own laptop. A laptop is
+required as the course is interactive.
+
+The course requires a recent version of the Chrome Web Browser. Other
+browsers may work, but they are supported at your own risk.
+
+Lessons will take place using the [jsCoq](https://coq.vercel.app/)
+software. Please, click on the above link and **check the tutorial
+works** on your computer.
+
+Internet connection is much recommended but not required, let us know
+if you can't connect to internet and we will find a way to distribute
+the files.
+
+### Tutorial Forum
+
+We will open a Tutorial Forum using [Coq's Zulip Website](https://coq.zulipchat.com/).
 
 ## Introduction
 
@@ -52,8 +105,8 @@ Coq is mainly developed by Inria - French public computer science
 institute. Its development and maintenance is managed by the [Coq
 Team](https://coq.inria.fr/coq-team.html), but the development follows
 a collaborative model and releases usually see dozens of external
-contributors. Dr. Emilio Jesus Gallego Arias, the instructor for this
-workshop, is a member of the [Coq Core
+contributors. Emilio J. Gallego Arias, the instructor for this
+tutorial, is a member of the [Coq Core
 Team](https://coq.inria.fr/coq-team.html).
 
 This course aims to introduce the Coq proof assistant in a practical
@@ -85,7 +138,7 @@ tutorial.
 
 We will review the formal logical language that is at the base of
 interactive proof assistants such as Coq or Lean, including functional
-programming, inductive datatypes, and Coq and math-comp proving tactics.
+programming, inductive datatypes, and the SSReflect proof language.
 
 #### Lesson links and schedule
 
@@ -101,13 +154,12 @@ programming, inductive datatypes, and Coq and math-comp proving tactics.
 
 In this lesson, we will introduce the core data structures used in the
 Mathematical Components libraries, as well as their associated
-theories. A key part of this lesson will be the introduction of the
-class hierarchy used in the Mathematical Components library which is
-used to handle common properties among types, such as being
-denumerable or finite.
+theories. In this process, we will study the class hierarchy used to
+organize types according to their properties, such as being finite or
+having decidable equality.
 
-We will build and verify a simple interpreter for a declarative
-language using the pieces provided by the MC library.
+We will showcase a real-world inspired example illustrating the power
+of the approach.
 
 #### Lesson links and schedule
 
@@ -126,7 +178,7 @@ construction of proofs founds in the mathematics literature.
 
 In particular, we will survey the available classes for (linear)
 algebra in math-comp, including abelian groups, fields, matrices, and
-polynomials, along with their main theory.
+polynomials, along with their theories.
 
 We will conclude the tutorial with a brief overview of advanced topics
 and trends in the field.
@@ -140,36 +192,6 @@ and trends in the field.
 | 12-00--12:30 | Break                    |               |
 | 12:30--13:30 | Exercise Session         | [html file]() |
 |--------------|--------------------------|---------------|
-
-## Attending
-
-### Location
-
-TBA
-
-### Registration
-
-Are attendants expected to register?
-
-### Required Software
-
-Each participant is expected to bring their own laptop. A laptop is
-required as the course is interactive.
-
-The course requires a recent version of the Chrome Web Browser. Other
-browsers may work, but they are supported at your own risk.
-
-Lessons will take place using the [jsCoq](https://coq.vercel.app/)
-software. Please, click on the above link and **check the tutorial
-works** on your computer.
-
-Internet connection is much recommended but not required, let us know
-if you can't connect to internet and we will find a way to distribute
-the files.
-
-### Tutorial Forum
-
-We will open a Tutorial Forum using [Coq's Zulip Website](https://coq.zulipchat.com/).
 
 ## Contact
 
