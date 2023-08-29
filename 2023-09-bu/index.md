@@ -146,14 +146,14 @@ programming, inductive datatypes, and the SSReflect proof language.
 
 #### Lesson links and schedule
 
-|--------------|-----------------------------|-----------------------------------------------------------|
-| Time         | Description                 | Links                                                     |
-|--------------|-----------------------------|-----------------------------------------------------------|
-| 10:30--11:00 | Welcome, introduction       | [slides](https://x80.org/rwc/slides/coq-introduction.pdf) |
-| 10:30--11:00 | Core Coq Topics and Tactics | [html file](https://x80.org/rwc/code/lesson_1.html)       |
-| 12:00--13:00 | Break                       |                                                           |
-| 13:00--14:00 | Exercise Session            | [html file]() [solutions]()                               |
-|--------------|-----------------------------|-----------------------------------------------------------|
+|--------------|-----------------------------|----------------------------------------------------------------------|
+| Time         | Description                 | Links                                                                |
+|--------------|-----------------------------|----------------------------------------------------------------------|
+| 10:30--11:00 | Welcome, introduction       | [slides](https://x80.org/rwc/slides/coq-introduction.pdf)            |
+| 10:30--11:00 | Core Coq Topics and Tactics | [html file](https://x80.org/rwc/code/lesson_1.html)                  |
+| 12:00--13:00 | Break                       |                                                                      |
+| 13:00--14:00 | Exercise Session            | [html file](https://x80.org/rwc/code/exercises_1.html) [solutions]() |
+|--------------|-----------------------------|----------------------------------------------------------------------|
 
 ### Day 2 (Wed, Aug 30th, 2023): Verification of Core Data Structures
 
@@ -168,13 +168,13 @@ of the approach.
 
 #### Lesson links and schedule
 
-|--------------|----------------------|---------------|
-| Time         | Description          | Links         |
-|--------------|----------------------|---------------|
-| 10:30--12:00 | Core Data Structures | [html file]() |
-| 12-00--12:30 | Break                |               |
-| 12:30--13:30 | Exercise Session     | [html file]() |
-|--------------|----------------------|---------------|
+|--------------|---------------------------------------|---------------|
+| Time         | Description                           | Links         |
+|--------------|---------------------------------------|---------------|
+| 10:30--12:00 | Data Structures and Class Hierarchies | [html file]() |
+| 12-00--13:00 | Break                                 |               |
+| 13:00--14:00 | Exercise Session                      | [html file]() |
+|--------------|---------------------------------------|---------------|
 
 ### Day 3 (Thu, Aug 31st, 2023): Mathematics verification
 
@@ -194,8 +194,8 @@ and trends in the field.
 | Time         | Description              | Links         |
 |--------------|--------------------------|---------------|
 | 10:30--12:00 | Mathematics Verification | [html file]() |
-| 12-00--12:30 | Break                    |               |
-| 12:30--13:30 | Exercise Session         | [html file]() |
+| 12-00--13:00 | Break                    |               |
+| 13:00--14:00 | Exercise Session         | [html file]() |
 |--------------|--------------------------|---------------|
 
 ## Contact
