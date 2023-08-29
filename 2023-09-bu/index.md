@@ -134,7 +134,7 @@ We will assume some basic familiarly with functional programming and
 interactive proofs, but that's not a pre-requisite to join the
 tutorial.
 
-### Day 1 (Tue, Aug 29th, 2023): Introduction to type theory as a mathematical language
+### Day 1 (Tue, Aug 29th, 2023): Core Coq Topics and Tactics
 
 We will review the formal logical language that is at the base of
 interactive proof assistants such as Coq or Lean, including functional
@@ -142,13 +142,14 @@ programming, inductive datatypes, and the SSReflect proof language.
 
 #### Lesson links and schedule
 
-|--------------|----------------------------------------|-----------------------------|
-| Time         | Description                            | Links                       |
-|--------------|----------------------------------------|-----------------------------|
-| 10:30--12:00 | Type Theory as a Mathematical Language | [html file]()               |
-| 12:00--12:30 | Break                                  |                             |
-| 12:30--13:30 | Exercise Session                       | [html file]() [solutions]() |
-|--------------|----------------------------------------|-----------------------------|
+|--------------|-----------------------------|-----------------------------------------------------------|
+| Time         | Description                 | Links                                                     |
+|--------------|-----------------------------|-----------------------------------------------------------|
+| 10:30--11:00 | Welcome, introduction       | [slides](https://x80.org/rwc/slides/coq-introduction.pdf) |
+| 10:30--11:00 | Core Coq Topics and Tactics | [html file](https://x80.org/rwc/code/lesson_1.html)       |
+| 12:00--13:00 | Break                       |                                                           |
+| 13:00--14:00 | Exercise Session            | [html file]() [solutions]()                               |
+|--------------|-----------------------------|-----------------------------------------------------------|
 
 ### Day 2 (Wed, Aug 30th, 2023): Verification of Core Data Structures
 
