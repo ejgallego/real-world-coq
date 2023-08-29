@@ -21,6 +21,10 @@ This course has been generously supported by Boston University.
 The course can be attended onsite at Boston University, or online
 using Zoom.
 
+- [Zoom link](https://bostonu.zoom.us/j/97034339058?pwd=cDRNUjRVYnAyK1R0bVhDcjhkVEJNUT09)
+- Meeting ID: 970 3433 9058
+- Passcode: 924665
+
 ### Is this course for me?
 
 This course is for you if you would like to learn about formal proofs
