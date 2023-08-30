@@ -96,17 +96,17 @@ some common patterns often used in the field.
 
 #### Lesson links and schedule
 
-|--------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| Time         | Description                                      | Links                                                                                                                |
-|--------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| 08:40--10:10 | Welcome, introduction to the Coq Proof Assistant | [slides](https://x80.org/rwc/slides/coq-introduction.pdf)                                                            |
-| 10-10--10:40 | Break                                            |                                                                                                                      |
-| 10:40--12:10 | Type Theory as a Mathematical Language           | [html file](https://x80.org/rwc/code/lesson_1.html)                                                                  |
-| 12:10--13:10 | Lunch                                            |                                                                                                                      |
-| 13:10--14:10 | Exercise Session I                               | [html file](https://x80.org/rwc/code/exercises_1.html) [solutions](https://x80.org/rwc/code/exercises_1_solved.html) |
-| 14:10--14:30 | Break                                            |                                                                                                                      |
-| 14:30--15:30 | Exercise Session II                              |                                                                                                                      |
-|--------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+|--------------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Time         | Description                                      | Links                                                                                                                                          |
+|--------------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| 08:40--10:10 | Welcome, introduction to the Coq Proof Assistant | [slides](https://x80.org/rwc/2022-sabanci/slides/coq-introduction.pdf)                                                                         |
+| 10-10--10:40 | Break                                            |                                                                                                                                                |
+| 10:40--12:10 | Type Theory as a Mathematical Language           | [html file](https://x80.org/rwc/2022-sabanci/code/lesson_1.html)                                                                               |
+| 12:10--13:10 | Lunch                                            |                                                                                                                                                |
+| 13:10--14:10 | Exercise Session I                               | [html file](https://x80.org/rwc/2022-sabanci/code/exercises_1.html) [solutions](https://x80.org/rwc/2022-sabanci/code/exercises_1_solved.html) |
+| 14:10--14:30 | Break                                            |                                                                                                                                                |
+| 14:30--15:30 | Exercise Session II                              |                                                                                                                                                |
+|--------------|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ### Day 2 (Sep 06th, 2022): Core Coq tactics and proofs
 
@@ -123,17 +123,17 @@ proofs.
 
 #### Lesson links and schedule
 
-|--------------|-----------------------------|--------------------------------------------------------|
-| Time         | Description                 | Links                                                  |
-|--------------|-----------------------------|--------------------------------------------------------|
-| 08:40--10:10 | Coq Core Tactics and Proofs | [html file](https://x80.org/rwc/code/lesson_2_1.html)  |
-| 10-10--10:40 | Break                       |                                                        |
-| 10:40--12:10 | Structures and Libraries    | [html file](https://x80.org/rwc/code/lesson_2_2.html)  |
-| 12:10--13:10 | Lunch                       |                                                        |
-| 13:10--14:10 | Exercise Session I          | [html file](https://x80.org/rwc/code/exercises_2.html) [solutions](https://x80.org/rwc/code/exercises_2_solved.html) |
-| 14:10--14:30 | Break                       |                                                        |
-| 14:30--15:30 | Exercise Session II         |                                                        |
-|--------------|-----------------------------|--------------------------------------------------------|
+|--------------|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Time         | Description                 | Links                                                                                                                                          |
+|--------------|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| 08:40--10:10 | Coq Core Tactics and Proofs | [html file](https://x80.org/rwc/2022-sabanci/code/lesson_2_1.html)                                                                             |
+| 10-10--10:40 | Break                       |                                                                                                                                                |
+| 10:40--12:10 | Structures and Libraries    | [html file](https://x80.org/rwc/2022-sabanci/code/lesson_2_2.html)                                                                             |
+| 12:10--13:10 | Lunch                       |                                                                                                                                                |
+| 13:10--14:10 | Exercise Session I          | [html file](https://x80.org/rwc/2022-sabanci/code/exercises_2.html) [solutions](https://x80.org/rwc/2022-sabanci/code/exercises_2_solved.html) |
+| 14:10--14:30 | Break                       |                                                                                                                                                |
+| 14:30--15:30 | Exercise Session II         |                                                                                                                                                |
+|--------------|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ### Day 3 (Sep 07th, 2022): Mathematics verification
 
@@ -145,17 +145,17 @@ and group theory.
 
 #### Lesson links and schedule
 
-|--------------|--------------------------|--------------------------------------------------------|
-| Time         | Description              | Links                                                  |
-|--------------|--------------------------|--------------------------------------------------------|
-| 08:40--10:10 | Mathematics verification | [html file](https://x80.org/rwc/code/lesson_3.html)    |
-| 10-10--10:40 | Break                    |                                                        |
-| 10:40--12:10 | Mathematics verification |                                                        |
-| 12:10--13:10 | Lunch                    |                                                        |
-| 13:10--14:10 | Exercise Session I       | [html file](https://x80.org/rwc/code/exercises_3.html) |
-| 14:10--14:30 | Break                    |                                                        |
-| 14:30--15:30 | Exercise Session II      |                                                        |
-|--------------|--------------------------|--------------------------------------------------------|
+|--------------|--------------------------|---------------------------------------------------------------------|
+| Time         | Description              | Links                                                               |
+|--------------|--------------------------|---------------------------------------------------------------------|
+| 08:40--10:10 | Mathematics verification | [html file](https://x80.org/rwc/2022-sabanci/code/lesson_3.html)    |
+| 10-10--10:40 | Break                    |                                                                     |
+| 10:40--12:10 | Mathematics verification |                                                                     |
+| 12:10--13:10 | Lunch                    |                                                                     |
+| 13:10--14:10 | Exercise Session I       | [html file](https://x80.org/rwc/2022-sabanci/code/exercises_3.html) |
+| 14:10--14:30 | Break                    |                                                                     |
+| 14:30--15:30 | Exercise Session II      |                                                                     |
+|--------------|--------------------------|---------------------------------------------------------------------|
 
 ### Day 4 (Sep 08th, 2022): Program Verification
 
@@ -169,17 +169,17 @@ used by mathematicians.
 
 #### Lesson links and schedule
 
-|--------------|----------------------|-----------------------------------------------------|
-| Time         | Description          | Links                                               |
-|--------------|----------------------|-----------------------------------------------------|
-| 08:40--10:10 | Program Verification | [html file](https://x80.org/rwc/code/lesson_4.html) |
-| 10-10--10:40 | Break                |                                                     |
-| 10:40--12:10 | Program Verification |                                                     |
-| 12:10--13:10 | Lunch                |                                                     |
-| 13:10--14:10 | Exercise Session I   |                                                     |
-| 14:10--14:30 | Break                |                                                     |
-| 14:30--15:30 | Exercise Session II  |                                                     |
-|--------------|----------------------|-----------------------------------------------------|
+|--------------|----------------------|------------------------------------------------------------------|
+| Time         | Description          | Links                                                            |
+|--------------|----------------------|------------------------------------------------------------------|
+| 08:40--10:10 | Program Verification | [html file](https://x80.org/rwc/2022-sabanci/code/lesson_4.html) |
+| 10-10--10:40 | Break                |                                                                  |
+| 10:40--12:10 | Program Verification |                                                                  |
+| 12:10--13:10 | Lunch                |                                                                  |
+| 13:10--14:10 | Exercise Session I   |                                                                  |
+| 14:10--14:30 | Break                |                                                                  |
+| 14:30--15:30 | Exercise Session II  |                                                                  |
+|--------------|----------------------|------------------------------------------------------------------|
 
 ### Day 5 (Sep 09th, 2022): Advanced topics and Extended Exercise session.
 

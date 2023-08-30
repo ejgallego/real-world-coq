@@ -146,14 +146,14 @@ programming, inductive datatypes, and the SSReflect proof language.
 
 #### Lesson links and schedule
 
-|--------------|-----------------------------|----------------------------------------------------------------------|
-| Time         | Description                 | Links                                                                |
-|--------------|-----------------------------|----------------------------------------------------------------------|
-| 10:30--11:00 | Welcome, introduction       | [slides](https://x80.org/rwc/slides/coq-introduction.pdf)            |
-| 10:30--11:00 | Core Coq Topics and Tactics | [html file](https://x80.org/rwc/code/lesson_1.html)                  |
-| 12:00--13:00 | Break                       |                                                                      |
-| 13:00--14:00 | Exercise Session            | [html file](https://x80.org/rwc/code/exercises_1.html) [solutions]() |
-|--------------|-----------------------------|----------------------------------------------------------------------|
+|--------------|-----------------------------|------------------------------------------------------------------------------|
+| Time         | Description                 | Links                                                                        |
+|--------------|-----------------------------|------------------------------------------------------------------------------|
+| 10:30--11:00 | Welcome, introduction       | [slides](https://x80.org/rwc/slides/coq-introduction.pdf)                    |
+| 10:30--11:00 | Core Coq Topics and Tactics | [html file](https://x80.org/rwc/2023-bu/code/lesson_1.html)                  |
+| 12:00--13:00 | Break                       |                                                                              |
+| 13:00--14:00 | Exercise Session            | [html file](https://x80.org/rwc/2023-bu/code/exercises_1.html) [solutions]() |
+|--------------|-----------------------------|------------------------------------------------------------------------------|
 
 ### Day 2 (Wed, Aug 30th, 2023): Verification of Core Data Structures
 
