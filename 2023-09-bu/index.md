@@ -193,7 +193,7 @@ and trends in the field.
 |--------------|--------------------------|---------------|
 | Time         | Description              | Links         |
 |--------------|--------------------------|---------------|
-| 10:30--12:00 | Mathematics Verification | [html file]() |
+| 10:30--12:00 | Mathematics Verification | [html file](https://x80.org/rwc/2023-bu/code/lesson_3.html)                  |
 | 12-00--13:00 | Break                    |               |
 | 13:00--14:00 | Exercise Session         | [html file]() |
 |--------------|--------------------------|---------------|
